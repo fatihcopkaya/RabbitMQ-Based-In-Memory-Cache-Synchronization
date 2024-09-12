@@ -1,6 +1,0 @@
-@RabbitMQ_Based_In_MemoryCacheSynchronization_HostAddress = http://localhost:5211
-
-GET {{RabbitMQ_Based_In_MemoryCacheSynchronization_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
